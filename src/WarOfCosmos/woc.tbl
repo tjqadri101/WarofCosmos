@@ -1,0 +1,17 @@
+splash_image	-	0	bg.jpg	-
+myback	-	0	farback.jpg		-
+player	-	0	f2.png			l
+enemy	-	0	enemyShip.png	-
+ufo		-	0	enemyUFO.png	-
+boss	-	0	boss1.jpg		-
+bmeter	- 	0	boss.png		x
+bfire	-	0	boss.png		y
+green	-	0	laserGreen.png	-
+gshot	-	0	laserGreenShot.png	-
+red		-	0	laserRed.png	-
+left	-	0	laserRed.png	r
+right	-	0	laserRed.png	l
+rshot	-	0	laserRedShot.png	-
+meteor	-	0	meteorSmall.png	-
+fire	-	0	ring.png	-
+burn	-	0	dead.jpg	-
