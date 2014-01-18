@@ -77,7 +77,7 @@ public class WOC extends StdGame {
 			numCollis = 0;
 			bcount = 0;
 			health = 0;
-			int level2 = 0;
+			level2 = 0;
 			
 			gun = 0;
 			gameOver();
@@ -93,10 +93,12 @@ public class WOC extends StdGame {
 		score += 50;
 		lives = 5;
 		if(level == 1){
+			level++;
+		}
+		if(level < 1){
 			level2 = 1;
 			level++;
 		}
-		if(level < 1) level++;
 		
 	}
 	JGFont scoring_font = new JGFont("Arial",0,8);
